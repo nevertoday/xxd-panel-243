@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 243"
-  short_description: "蓝笔横线手稿：上半保留原照，下半画成蓝色圆珠笔穿过横线的观察手稿"
-  default_prompt: "Use $xxd-panel-243 to transform my photograph following the complete canonical source brief."
+  short_description: "蓝笔横线手稿：把照片画成一页蓝色圆珠笔横线笔记，排线有疏有密，过程留着"
+  default_prompt: "Use $xxd-panel-243 to turn my photo into Blue Ballpoint on Lined Paper artwork."

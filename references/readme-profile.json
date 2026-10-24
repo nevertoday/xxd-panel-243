@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 243｜Blue Ballpoint on Lined Paper: redraws the key subject of a photo with one ordinary blue ballpoint pen on cheap lined notebook paper, the printed rules running straight through the drawing; tone is built only from hatching and cross-hatching that follows the form, some areas worked very densely while neighbouring areas stop abruptly at a few construction lines, with large untouched paper, off-centre or cropped placement and at most a few words scribbled in the same pen. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-243 or asks for a blue ballpoint, biro, lined-notebook sketchbook or travel-journal drawing from a photo.",
+  "short_description": "蓝笔横线手稿：把照片画成一页蓝色圆珠笔横线笔记，排线有疏有密，过程留着",
+  "zh-CN": {
+    "name": "蓝笔横线手稿",
+    "tagline": "把照片画成一页蓝色圆珠笔横线笔记，排线有疏有密，画的过程都留着。",
+    "look": "照片里的主体被重新观察一遍，只用一支普通蓝色圆珠笔画在廉价横线笔记本纸上，纸上的横线直接穿过画面。明暗全靠顺着结构走的排线和交叉线：有的地方画得极密极细，旁边却突然停笔，只剩几根寻找线、试探笔迹和偶然划痕。主体可以偏在一边、贴边或画到一半就消失，大片纸面留空。如有文字，是同一支笔随手写下的几个字、地名或小记号。",
+    "traits": ["蓝色圆珠笔", "横线笔记本", "疏密排线", "未完成空白", "可见过程", "私人观察"],
+    "good": [
+      "结构和明暗清楚的单个主体：一把椅子、一个人的侧脸、一座老房子、一辆停着的摩托车",
+      "旅途中的地点和片刻：车站长椅、咖啡馆一角、街口的路灯",
+      "想放进手帐、速写本或私人旅行记录的照片"
+    ],
+    "poor": [
+      "想保留照片颜色的需求，整张图只有一种蓝",
+      "需要干净精确线稿的：产品图、技术图纸、建筑立面",
+      "想要完整背景、平滑阴影或精修商业插画的效果"
+    ]
+  },
+  "en": {
+    "name": "Blue Ballpoint on Lined Paper",
+    "tagline": "Draws your photo in blue ballpoint on lined notebook paper, with uneven hatching and the process left in.",
+    "look": "The subject is looked at again and drawn with nothing but an ordinary blue ballpoint pen on cheap lined notebook paper, the printed rules running straight through the drawing. Light and shade come only from hatching and cross-hatching that follow the form: some areas are worked very densely, while the area next to them stops abruptly, leaving a few searching lines, tentative marks and stray scratches. The subject may sit off-centre, touch the edge or fade out halfway, with large stretches of untouched paper. Any text is a few words, a place name or a quick mark scribbled with the same pen.",
+    "traits": ["Blue ballpoint", "Lined notebook", "Dense and sparse hatching", "Unfinished blank paper", "Visible process", "Private observation"],
+    "good": [
+      "A single subject with clear structure and light: a chair, a face in profile, an old house, a parked motorbike",
+      "Places and moments from a trip: a station bench, a corner of a café, a street lamp at a crossing",
+      "Photos you want in a journal, a sketchbook or a private travel record"
+    ],
+    "poor": [
+      "Wanting to keep the photo's colours; the whole drawing is one blue",
+      "Anything that needs a clean, exact line drawing: product shots, technical drawings, building elevations",
+      "Requests for a full background, smooth shading or a polished commercial illustration"
+    ]
+  },
+  "ja": {
+    "name": "青ボールペンの罫線手稿",
+    "tagline": "写真を、青いボールペンで描いた罫線ノートの一ページにします。線の密度に差があり、描く過程も残ります。",
+    "look": "写真の主役を改めて観察し、ふつうの青いボールペン一本だけで安い罫線ノートに描きます。罫線は絵の上をそのまま横切ります。明暗は形に沿ったハッチングとクロスハッチングだけで作り、ある部分はとても細かく描き込み、すぐ隣では急に筆を止めて、探り線や試し描き、偶然のひっかき跡だけを残します。主役は片側に寄せても、端に触れても、途中で消えてもかまいません。紙は大きく空けたままです。文字を入れるなら、同じペンで走り書きした数語や地名、小さな印です。",
+    "traits": ["青ボールペン", "罫線ノート", "疎密のハッチング", "描きかけの余白", "見える過程", "個人的な観察"],
+    "good": [
+      "構造と明暗がはっきりした一つの主役：椅子、人の横顔、古い家、止めてあるバイク",
+      "旅先の場所や瞬間：駅のベンチ、カフェの片隅、交差点の街灯",
+      "手帳やスケッチブック、個人的な旅の記録に入れたい写真"
+    ],
+    "poor": [
+      "写真の色を残したい場合（全体が一色の青になります）",
+      "きれいで正確な線画が必要なもの：商品写真、技術図面、建物の立面図",
+      "背景を描き込んだもの、なめらかな陰影、仕上げた商業イラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "파란 볼펜 줄노트 스케치",
+    "tagline": "사진을 파란 볼펜으로 그린 줄노트 한 페이지로 바꿉니다. 빗금은 촘촘하다 성글고, 그린 과정이 남습니다.",
+    "look": "사진 속 주인공을 다시 관찰해 평범한 파란 볼펜 한 자루로 싸구려 줄노트 위에 그립니다. 노트의 줄은 그림 위를 그대로 가로지릅니다. 명암은 형태를 따라가는 빗금과 교차 빗금으로만 만들고, 어떤 곳은 아주 촘촘하게 그리다가 바로 옆에서 갑자기 펜을 멈춰 더듬는 선, 시험 삼아 그은 선, 우연한 긁힘만 남깁니다. 주인공은 한쪽에 치우치거나 가장자리에 붙거나 중간에 사라져도 되고, 종이는 넓게 비워 둡니다. 글씨가 있다면 같은 펜으로 휘갈긴 몇 글자, 지명, 작은 표시입니다.",
+    "traits": ["파란 볼펜", "줄노트", "성글고 촘촘한 빗금", "미완성 여백", "보이는 과정", "개인적인 관찰"],
+    "good": [
+      "구조와 명암이 분명한 주인공 하나: 의자, 사람의 옆얼굴, 오래된 집, 세워 둔 오토바이",
+      "여행 중의 장소와 순간: 역 벤치, 카페 한구석, 길모퉁이 가로등",
+      "다이어리, 스케치북, 개인 여행 기록에 넣고 싶은 사진"
+    ],
+    "poor": [
+      "사진의 색을 살리고 싶은 경우(그림 전체가 파란색 하나입니다)",
+      "깔끔하고 정확한 선화가 필요한 것: 제품 사진, 기술 도면, 건물 입면도",
+      "배경을 다 채운 그림, 매끈한 음영, 다듬어진 상업 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مخطوطة القلم الأزرق على الورق المسطّر",
+    "tagline": "يرسم صورتك صفحةً بقلم حبر جاف أزرق على ورق دفتر مسطّر، بتظليل كثيف ومتفرق ومراحل رسم ظاهرة.",
+    "look": "يُعاد النظر في العنصر الرئيس ويُرسم بقلم حبر جاف أزرق عادي فقط على ورق دفتر مسطّر رخيص، وتمرّ السطور المطبوعة عبر الرسم مباشرة. يأتي الضوء والظل من خطوط التظليل المتوازية والمتقاطعة التي تتبع الشكل وحدها: بعض المواضع مرسوم بكثافة شديدة، وما يجاورها يتوقف فجأة ولا يبقى منه إلا خطوط بحث وعلامات مترددة وخدوش عابرة. قد يقع العنصر بعيداً عن المركز أو يلامس الحافة أو يتلاشى في منتصفه، مع مساحات واسعة من الورق غير المرسوم. وإن وُجد نص فهو كلمات قليلة أو اسم مكان أو علامة سريعة بالقلم نفسه.",
+    "traits": ["قلم حبر جاف أزرق", "دفتر مسطّر", "تظليل كثيف ومتفرق", "ورق غير مكتمل", "مراحل رسم ظاهرة", "ملاحظة شخصية"],
+    "good": [
+      "عنصر واحد واضح البنية والضوء: كرسي، وجه من الجانب، بيت قديم، دراجة نارية متوقفة",
+      "أماكن ولحظات من رحلة: مقعد في محطة، زاوية مقهى، مصباح شارع عند تقاطع",
+      "صور تريد وضعها في يومياتك أو كرّاسة رسمك أو سجل رحلاتك الخاص"
+    ],
+    "poor": [
+      "الرغبة في الاحتفاظ بألوان الصورة؛ فالرسم كله بلون أزرق واحد",
+      "ما يحتاج إلى رسم خطي نظيف ودقيق: صور المنتجات، الرسوم الفنية، واجهات المباني",
+      "طلب خلفية كاملة أو تظليل ناعم أو رسم تجاري مصقول"
+    ]
+  }
+}

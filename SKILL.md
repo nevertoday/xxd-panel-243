@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-243
-description: "Create XXD Panel 243 raster artwork: a faithful photograph paired with a private observation page in one blue ballpoint pen on cheap lined notebook paper, with uneven hatching, construction lines left visible and large areas of untouched paper. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-243 or asks for this 蓝笔横线手稿 style."
+description: "XXD Panel 243｜Blue Ballpoint on Lined Paper: redraws the key subject of a photo with one ordinary blue ballpoint pen on cheap lined notebook paper, the printed rules running straight through the drawing; tone is built only from hatching and cross-hatching that follows the form, some areas worked very densely while neighbouring areas stop abruptly at a few construction lines, with large untouched paper, off-centre or cropped placement and at most a few words scribbled in the same pen. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-243 or asks for a blue ballpoint, biro, lined-notebook sketchbook or travel-journal drawing from a photo."
 ---
 
 # XXD Panel 243
